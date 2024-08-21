@@ -1,5 +1,7 @@
 <h1>&#9888; To protect interest of the client company, source code for this project would NOT be disclosed to public. </h1>
 <h1>Project Introduction - Digital Business Card Website</h1>
+
+![pj_bcard](https://github.com/user-attachments/assets/55b4c2fc-e9fb-4ca1-afce-d4f58db8f378)
 <p>
 Digital Business Card Website is a fully functional full-stack webpage designed for NFC Workshop Limited. It is built using the MERN stack:
 </p>
@@ -153,7 +155,6 @@ Digital Business Card Website is a fully functional full-stack webpage designed 
 <h3><strong>DESKTOP</strong></h3>
 <img width="897" alt="downloadcard_d" src="https://github.com/user-attachments/assets/19f0f08a-739e-4105-959a-d11b5db299f6">
 
-<p>------------------------In Construction------------------------</p>
 <hr>
 <h1>&#128221;Devlopement Notes</h1>
 <h2>**SETUP INDEX(UNIQUE &TTL) for Mongodb  document:</h2>
