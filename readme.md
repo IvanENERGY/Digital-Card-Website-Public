@@ -40,7 +40,7 @@ Digital Business Card Website is a fully functional full-stack webpage designed 
 <h1>Project Demo (YouTube)</h1>
 <hr>
 
-[![pj_bcard](https://github.com/user-attachments/assets/402e84e8-e5ea-4af9-8f1a-a270cb87fc6e)](https://www.youtube.com/watch?v=ZWTvUTjdUcQ)
+[![pj_bcard](https://github.com/user-attachments/assets/402e84e8-e5ea-4af9-8f1a-a270cb87fc6e)](https://www.youtube.com/watch?v=RMUASWwkm28)
 <h1>&#128247;Screenshots [ Top: Mobile , Bottom: Desktop]</h1>
 <hr>
 <h2>&#128311;Home Page (for Not logged in)</h2>
