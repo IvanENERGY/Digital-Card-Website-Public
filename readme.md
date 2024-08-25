@@ -1,6 +1,6 @@
 <h1>&#9888; To protect interest of the client company, source code for this project would NOT be disclosed to public. </h1>
 <h1>&#128640;This project is hosted on https://www.nfcworkshop-card.com/ </h1>
-<h1>&#65039;Project Introduction - Digital Business Card Website</h1>
+<h1>	&#8505;Project Introduction - Digital Business Card Website</h1>
 
 ![pj_bcard](https://github.com/user-attachments/assets/55b4c2fc-e9fb-4ca1-afce-d4f58db8f378)
 <p>
@@ -38,7 +38,7 @@ Digital Business Card Website is a fully functional full-stack webpage designed 
 <p>&#11088;	&#9202;<i>Password Reset Token, Account Activation Token would be automatically expired within 10 minutes once generated</i></p>
 <p>&#11088;<i>Only activated account can login and access to "Generate Business Card" function</i></p>
 <p>&#11088;	&#128465;<i>User Account which are not activated within 10 minutes would be automatically deleted</i></p>
-<h1>&#65039;Project Demo (YouTube)</h1>
+<h1>	&#57914;Project Demo (YouTube)</h1>
 <hr>
 
 [![pj_bcard](https://github.com/user-attachments/assets/402e84e8-e5ea-4af9-8f1a-a270cb87fc6e)](https://www.youtube.com/watch?v=RMUASWwkm28)
