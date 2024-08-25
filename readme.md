@@ -38,7 +38,7 @@ Digital Business Card Website is a fully functional full-stack webpage designed 
 <p>&#11088;	&#9202;<i>Password Reset Token, Account Activation Token would be automatically expired within 10 minutes once generated</i></p>
 <p>&#11088;<i>Only activated account can login and access to "Generate Business Card" function</i></p>
 <p>&#11088;	&#128465;<i>User Account which are not activated within 10 minutes would be automatically deleted</i></p>
-<h1>	&#57914;Project Demo (YouTube)</h1>
+<h1>	&#xe23a;Project Demo (YouTube)</h1>
 <hr>
 
 [![pj_bcard](https://github.com/user-attachments/assets/402e84e8-e5ea-4af9-8f1a-a270cb87fc6e)](https://www.youtube.com/watch?v=RMUASWwkm28)
